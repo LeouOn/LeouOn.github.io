@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yune Leou-On</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Yune Leou-On</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science Plan</title>
+      <link>http://localhost:1313/post/firstpost/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/firstpost/</guid>
+      
+        <description>
+
+&lt;p&gt;Welcome to a site constructed in order to keep me accountable for learning Data Science and sharing my path, with all of its struggles and hopefully benefits with the world. It is also a place for me to keep an informal portfolio of different projects that I am working on and share that with people who may be interested.&lt;/p&gt;
+
+&lt;h2 id=&#34;goals-plan&#34;&gt;Goals &amp;amp; Plan&lt;/h2&gt;
+
+&lt;p&gt;Generally the plan of this site is to post at least once a week, if not more often about whatever I am currently working on. The goal is that throughout the next few years, I would like to pick up enough competency in Big Data and Machine Learning to be a data scientist. I am not coming from square one since I already have programming skills in SQL, Python, and R with enough experience to have a solid foundation. I however would like to take my skills to the next level so I can easily demonstrate my skills and ability.&lt;/p&gt;
+
+&lt;h3 id=&#34;data-science-path&#34;&gt;Data Science Path&lt;/h3&gt;
+
+&lt;p&gt;Inspired by &lt;a href=&#34;https://blog.udacity.com/data-analyst-skills-checklist-eguide&#34;&gt;Udacity&amp;rsquo;s Data Career Skills Checklist&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;computer-science-machine-learning&#34;&gt;Computer Science / Machine Learning&lt;/h4&gt;
+
+&lt;h5 id=&#34;software-skills&#34;&gt;Software Skills&lt;/h5&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Unix Command Line&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Version Control with Git&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Vim / Spacemacs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;foundational-programming&#34;&gt;Foundational Programming&lt;/h5&gt;
+
+&lt;h6 id=&#34;python&#34;&gt;Python&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Learn Numpy&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Learn Pandas&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; String Manipulations&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Reading and writing&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Regex (Regular Expressions)&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Mathematical Transformations&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Functional Programming&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Plotting with Matplotlib&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Seaborne Visualization&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Pairplotting&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Anaconda / iPython&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Data Cleaning with Python&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Flask&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; SQLAlchemy&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; SciPy&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Master Scikit-learn&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; REST Functionality (GET/POST/PUT/DELETE)&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;r&#34;&gt;R&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; GGPlot&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Linear Modeling&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Dplyr&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Tidyr&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Readr&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Reshape1
+-&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;sql&#34;&gt;SQL&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Querying&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Merge, Union, Slicing&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Aggregation&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Conditionals&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Updating and Writing Database&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h5&gt;
+
+&lt;h6 id=&#34;supervised-learning&#34;&gt;Supervised Learning&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Decision Trees&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Naive Bayes Classification&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Ordinary Least Squares (OLS) regression&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Logistic regression&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Support Vector Machines (SVMs)&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Ensemble Methods&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;unsupervised-learning&#34;&gt;Unsupervised Learning&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Random Forest Clustering&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; K-means Clustering&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Principal Component Analysis (PCA)&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Singular Value Decomposition (SVD)&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;reinforcement-learning&#34;&gt;Reinforcement Learning&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Q-Learning&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; TD-Learning&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Genetic Algorithms&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;deep-learning&#34;&gt;Deep Learning&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Neural Networks&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Convolutional Neural Networks&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Recurrent Neural Networks&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Generative Adversarial Networks&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; TensorFlow v2&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;computer-vision&#34;&gt;Computer Vision&lt;/h6&gt;
+
+&lt;h6 id=&#34;applied-ml&#34;&gt;Applied ML&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Content Analysis&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Personality Traits&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Word2Vec&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; CosineSimilarity&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;general-ai&#34;&gt;General AI&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Graduate Introduction to AI&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;big-data&#34;&gt;Big Data&lt;/h5&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Cisco Spark&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Docker Containers&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Kubernetes&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Pachyderm&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Hadoop&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; CS229r Algorithms for Big Data&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;cs-curriculum&#34;&gt;CS Curriculum&lt;/h5&gt;
+
+&lt;h6 id=&#34;computer-systems-and-architecture&#34;&gt;Computer Systems and Architecture&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; CMU Intro to Computer Systems&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Knuth MMIXware&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Harchol-Balter Performance Modeling and Design of Computer Systems&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;networks&#34;&gt;Networks&lt;/h6&gt;
+
+&lt;h4 id=&#34;mathematics-and-statistics&#34;&gt;Mathematics and Statistics&lt;/h4&gt;
+
+&lt;h5 id=&#34;calculus&#34;&gt;Calculus&lt;/h5&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Derivative Calculus&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Integral Calculus&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;multivariate-calculus&#34;&gt;Multivariate Calculus&lt;/h6&gt;
+
+&lt;h5 id=&#34;linear-algebra&#34;&gt;Linear Algebra&lt;/h5&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Matrix Manipulations&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Dot Product&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Eigenvalues&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Eigenvectors&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;statistics&#34;&gt;Statistics&lt;/h5&gt;
+
+&lt;h6 id=&#34;descriptive-statistics&#34;&gt;Descriptive Statistics&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Summary Stats&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Data Distributions&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Standard Deviation and Variance&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;inferential-statistics&#34;&gt;Inferential Statistics&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Hypothesis Testing w/ Significance Intervals&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Significance Testing&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Chi-squared and ANOVA testing&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Linear Regression&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Logistic Regression&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;discrete-mathematics&#34;&gt;Discrete Mathematics&lt;/h6&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Read An Infinite Descent into Pure Mathematics&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Discrete Mathmatics and Functional Programming (Thomas VanDrunen)&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Watch Great Theoretical Ideas in Computer Science&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;substantive-skills&#34;&gt;Substantive Skills&lt;/h4&gt;
+
+&lt;h5 id=&#34;experiment-design&#34;&gt;Experiment Design&lt;/h5&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; A/B Testing&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Multiarmed Bandit (Intelligent A/B Testing)&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Variable Control&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Sample Size and Power Law&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Confidence level&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Bayesian Statistics&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Bootstrapping&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Simulation&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;econometrics&#34;&gt;Econometrics&lt;/h5&gt;
+
+&lt;h3 id=&#34;schedule-of-plan&#34;&gt;Schedule of Plan&lt;/h3&gt;
+
+&lt;p&gt;Making and checking off this checklist gives me an idea that I already have a pretty good grounding and foundation for data science. What I need to work on is 1-2 weeks review periodically to keep my skills fresh and on recall. Having periodic reinforcement will be essential to retaining this knowledge over time. I have recognized that it is hard to keep knowledge fresh, already I have forgetten so much physics and chemistry from my undergraduate studies! Since I deeply care about getting involved in Machine Learning and Data Science it only makes sense for me to keep the important information fresh over time in such a way that the 20% of information that make up 80% of the work will be second nature to me. If I am also aware of the 80% that compose the remaining 20% then I should also learn where I can get that information from as needed. Of course, as an amateur practicioner I am not going to immediately know which 20% I have to learn!&lt;/p&gt;
+
+&lt;p&gt;(Insert image about learning and periodic reinforcement)&lt;/p&gt;
+
+&lt;p&gt;I am going to use the Agile Sprint model to keep myself accountable. This involves 2 week &amp;lsquo;sprints&amp;rsquo; with retrospectives.&lt;/p&gt;
+
+&lt;h4 id=&#34;spring-2019&#34;&gt;Spring 2019&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Weeks 1-2: Review&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For the first week I am going to settle in and post a review about what I know. I am going to try to watch 5-6 hours of video at 2x speed and speed read books so that I can comprehensively learn the basics. I will take a few org-mode notes and post them up here as my Week 1 Recap.
+The most important aspect is getting the schedule and discipline to keep on working day after day. I shall not give up on my practice and learning. Additionally I will try to build the basic structure of the afflictive emotions quiz which is good practice for the dynamic site that I want to implement. Of course this can be difficult since github pages is optimized for static pages but I will work to set up some routes and API calls to firebase.
+The second week I will work on consolidating that information and learning where I need to tackle further. One of the first projects I should work on is my second year paper looking into the connection between industry money and speech content in the House of Representatives. This will be the first and most important field I need to approach since it is directly related to my doctoral progress.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Weeks 3-4: Second Year Paper Progress&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This week I will attempt to get preliminary results for my second year paper. I will identify 10 representatives that receive the most money from industries that seem to be highly related
+I will work on drafting the literature review and describing my results. After this I will send to my second year paper readers - Professors Priscilla Southwell and Mikhail Myagkov.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Weeks 5-6: Big Data&lt;/strong&gt;
+Big Data is important for my potential dissertation topic focusing on social network datasets.
+If I am approved by Social Science One to analyze the Facebook dataset, I will need to build a data pipeline using Apache Spark, Docker Containers, and Kubernetes Clusters to process the data into meaningful information.
+The best way to learn is to learn by doing and then teach it, so I will post &lt;em&gt;anonymized&lt;/em&gt; data about my process and what I am doing so others can follow along. I am really excited about the opportunity to conduct research that is both meaningful and will give me the capacity to deal with this large dataset.
+Information is getting bigger and bigger, having these large sets gives our results both statistical power as well as reveals many unique distinct aspects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Weeks 7-8: Deep Learning&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Weeks 9-10: Finish Projects&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;summer-2019&#34;&gt;Summer 2019&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Early Summer - ICPSR (Potentially)&lt;/strong&gt;
+I have another exciting opportunity to study Machine Learning at the University of Michigan. I will post the information that I am learning and accumulating over time. I think after the 5 sprints of foundational work that I am laying for myself during Spring 2019 I will be in a good position to do some innovative work during the summer. Hopefully I will make the final touches on my second year paper and then I will start work on my Facebook dissertation project.&lt;/p&gt;
+
+&lt;p&gt;It is always possible to plan further out into the future but I think this will be a good basis to start off with. As mentioned in the checklist, it would be nice for me to develop more core Computer Science skills as needed. I think the most important core skills for data science would be algorithms and data structures. This is especially important for the big data dissertation project since computational power and storage will be at a premium!&lt;/p&gt;
+
+&lt;p&gt;Now that I have a semi-solid plan the most important next step is the execution. Without the execution, the best laid plans and dreams are just that &amp;ndash; dreams.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Afflictive Emotions Quiz Plan</title>
+      <link>http://localhost:1313/post/ae_quiz_mockup/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/ae_quiz_mockup/</guid>
+      
+        <description>
+
+&lt;h1 id=&#34;afflictive-emotions-quiz&#34;&gt;Afflictive Emotions Quiz&lt;/h1&gt;
+
+&lt;p&gt;My friend Matt Gola had this idea to create a quiz that would diagnose which of the 6 root and 22 subsidiary kleshas (mental afflictions) a user suffered from and give some advice in accordance with the Dharma. I thought that this was a great idea since it could be a great application of machine learning to psychological health and as far as we know, nothing like this has ever been done before. If the test is successfully created, we can add a test constituting the 11 virtuous mental factors as well.&lt;/p&gt;
+
+&lt;h2 id=&#34;outline-of-action-steps&#34;&gt;Outline of Action Steps&lt;/h2&gt;
+
+&lt;h3 id=&#34;website&#34;&gt;Website&lt;/h3&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Setup Flask Application&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Host site on dynamic platform.&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Create form that generates POST request&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Load dynamic page&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;program&#34;&gt;Program&lt;/h3&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Load Questions&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Receive POST Request&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Tabulate Results&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Return Stats&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;advice&#34;&gt;Advice&lt;/h3&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Papers Hosting</title>
+      <link>http://localhost:1313/post/papers/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/papers/</guid>
+      
+        <description>
+
+&lt;p&gt;This is a post/page to host my papers and research in progress. My intention in providing these working papers is to o hopefully help others in their research and studies and to invite constructive criticism in improving my research in the future.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-papers&#34;&gt;Research Papers&lt;/h2&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>
+
+&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+
+&lt;p&gt;I&amp;rsquo;m a first year PhD Student at the University of Oregon. My goal is to become a competent Data Scientist and Machine Learning Engineer with the substantive expertise in applying my skills to understanding social and political phenomena. I am most interested in getting involved in academia as either as a social sciences Professor in Information Science or a data-driven Professor of Political Science. Secondarily I am interested in working for an NGO or thinktank as long as I can get involved in research that I am passionate about.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;University of Oregon - PhD Student Political Science (Expected Graduation 2023)&lt;/li&gt;
+&lt;li&gt;University of San Francisco - MA Asia Pacific Studies (2015)&lt;/li&gt;
+&lt;li&gt;Thomas Edison State University - BA Natural Sciences &amp;amp; Mathematics | Social Sciences (2014)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;site&#34;&gt;Site&lt;/h1&gt;
+
+&lt;p&gt;This site is built using Hugo (a static site engine written in Go) and Spacemacs (Emacs with Vim bindings) on i3wm Manjaro Linux (rolling distribution).&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kleshas on Yune Leou-On</title>
+    <link>http://localhost:1313/tags/kleshas/</link>
+    <description>Recent content in Kleshas on Yune Leou-On</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/kleshas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Afflictive Emotions Quiz Plan</title>
+      <link>http://localhost:1313/post/ae_quiz_mockup/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/ae_quiz_mockup/</guid>
+      <description>Afflictive Emotions Quiz My friend Matt Gola had this idea to create a quiz that would diagnose which of the 6 root and 22 subsidiary kleshas (mental afflictions) a user suffered from and give some advice in accordance with the Dharma. I thought that this was a great idea since it could be a great application of machine learning to psychological health and as far as we know, nothing like this has ever been done before.</description>
+    </item>
+    
+  </channel>
+</rss>
